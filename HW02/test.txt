@@ -1,0 +1,3 @@
+Tiny sample file
+containing a haiku
+very impressive
